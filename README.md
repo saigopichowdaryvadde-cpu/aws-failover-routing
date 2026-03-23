@@ -1,4 +1,5 @@
-# ☁️ AWS Failover Routing Project
+## 🔗 About Me
+I am a Master's student in Management Information Systems at the University of Houston, passionate about data analysis, visualization, and building data-driven solutions.# ☁️ AWS Failover Routing Project
 
 ## 📌 Overview
 
